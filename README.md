@@ -12,4 +12,14 @@ The last 3 files are from [http://bl.ocks.org/aogriffiths/7933339](http://bl.ock
 
 When loading index.html in a browser, a graph like this will be shown:
 
-![Alt text](https://raw.githubusercontent.com/jonkeller/HeartRateMonitor/master/hrm_screenshot.png)
+![Screenshot of Heart Rate Graph](https://raw.githubusercontent.com/jonkeller/HeartRateMonitor/master/hrm_screenshot.png)
+
+To make the circuit:
+* Connect the + and - of a 2-AA battery holder to a breadboard
+* Connect the + and - of the heart rate receiver to the same rails
+* Connect the third pin of the receiver to a pin of the Raspberry Pi. I used pin 23.
+* Connect the ground rail to the ground of the Raspberry Pi.
+* I also connected an LED, by also connecting the data pin to the + of the LED, and connecting the - pin of the LED to a resistor which is plugged into the ground rail.
+
+Circuit photo:
+![Circuit Photo](https://raw.githubusercontent.com/jonkeller/HeartRateMonitor/master/Circuit_Photo.jpg)
