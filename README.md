@@ -22,8 +22,10 @@ To make the circuit:
 * I also connected an LED, by also connecting the data pin to the + of the LED, and connecting the - pin of the LED to a resistor which is plugged into the ground rail.
 
 Circuit photo:
+
 ![Circuit Photo](https://raw.githubusercontent.com/jonkeller/HeartRateMonitor/master/Circuit_Photo.jpg)
 
 Video:
+
 [![Project Video](http://img.youtube.com/vi/WC0Coatjfzg/0.jpg)](http://www.youtube.com/watch?v=WC0Coatjfzg "Video Title")
 
