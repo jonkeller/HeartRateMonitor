@@ -10,3 +10,6 @@ This is a simple project using the [Adafruit Heart Rate Educational Starter Pack
 
 The last 3 files are from [http://bl.ocks.org/aogriffiths/7933339](http://bl.ocks.org/aogriffiths/7933339). The Javascript and HTML files were adapted somewhat for this project, but the CSS file is unchanged.
 
+When loading index.html in a browser, a graph like this will be shown:
+
+![Alt text](https://raw.githubusercontent.com/jonkeller/HeartRateMonitor/master/hrm_screenshot.png)
