@@ -23,3 +23,7 @@ To make the circuit:
 
 Circuit photo:
 ![Circuit Photo](https://raw.githubusercontent.com/jonkeller/HeartRateMonitor/master/Circuit_Photo.jpg)
+
+Video:
+[![Project Video](http://img.youtube.com/vi/WC0Coatjfzg/0.jpg)](http://www.youtube.com/watch?v=WC0Coatjfzg "Video Title")
+
